@@ -1,9 +1,8 @@
-
 body { font-family: 'Open Sans', sans-serif; color: #555; font-size: 14px; font-weight: 300; }
 li { list-style: none;}
 a:hover { text-decoration: none; }
 
-/*Headers*/
+
 h1,h2,h3,h4,h5,h6 { font-family: 'Yanone Kaffeesatz', sans-serif;color: #555}
 
 h1 { font-size: 50px; }
@@ -47,8 +46,7 @@ section+section { margin-top: 50px; }
 	background: url("../images/top.png") no-repeat;
 }
 
-
-/*------------- Top bar----------------*/
+/*-- Top bar--*/
 #top {
 	width: 100%;
 	background: #ffaa1d;
